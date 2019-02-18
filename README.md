@@ -9,6 +9,8 @@ https://github.com/xgqfrms/learning/tree/gh-pages/Git-All-In-One
 ### help
 
 ```sh
+    
+# help
 $ git -h
 $ git --help
 
@@ -18,6 +20,8 @@ $ git --help
 ### add
 
 ```sh
+    
+# add
 $ git add .
 
 
@@ -26,6 +30,8 @@ $ git add .
 ### commit
 
 ```sh
+    
+# commit
 $ git commit -m "commit comments"
 
 
@@ -33,7 +39,8 @@ $ git commit -m "commit comments"
 
 ### help
 
-```sh
+```sh    
+# status
 $ git status
 
 
