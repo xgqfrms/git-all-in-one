@@ -17,6 +17,16 @@ $ git --help
 
 ```
 
+### checkout
+
+```sh
+    
+# add
+$ git checkout
+
+
+```
+
 ### add
 
 ```sh
@@ -37,7 +47,7 @@ $ git commit -m "commit comments"
 
 ```
 
-### help
+### status
 
 ```sh    
 # status
